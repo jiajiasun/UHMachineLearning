@@ -1,0 +1,1 @@
+Lab4 contains three Jupyter Notebooks, two of which are examples showing students how to implement support vector machine using Scikit-learn. The third one is a lab exercise using geophysics well logging data.
