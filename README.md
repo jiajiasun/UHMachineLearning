@@ -1,2 +1,2 @@
 # UHMachineLearning
-a collection of Jupyter Notebooks that implements machine learning algorithms.
+A collection of Jupyter Notebooks that implement the following machine learning algorithms: logistic regression, support vector machine, decision trees, random forests, ensemble learning, clustering, dimensionality reduction and neural networks (including simple feedforward networks and convolutional neural networks). Also included are tutorials on basic Python programming, linear algebra and TensorFlow.
